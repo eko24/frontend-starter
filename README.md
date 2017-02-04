@@ -1,5 +1,2 @@
-# frontend-starter.
-sdasdasdasdasd
-asdasdasdasad
+# frontend-starter
 Repo for learning frontend stuff
-This is new third string.
